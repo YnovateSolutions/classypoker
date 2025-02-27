@@ -1,7 +1,5 @@
 ## Quick Start
 
-### Use Node version 16
-
 ### Set-up MongoDB
 
 Set-up either a local mongoDB instance or create a [cloud-hosted instance](https://www.mongodb.com/). Save your db username + passsword and the mongoDb connection-string as you will need it for the next step.

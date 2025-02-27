@@ -1,6 +1,6 @@
 {
   "name": "vintage-poker",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A full-stack poker web-app",
   "main": "./server/server.js",
   "scripts": {
